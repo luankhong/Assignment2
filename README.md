@@ -1,1 +1,1 @@
-# Assignment2
+# CPSC 473 Assignment2
